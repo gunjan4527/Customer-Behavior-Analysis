@@ -81,29 +81,6 @@ The workflow follows a complete data pipeline:
 - Sales Trends  
 - Interactive Slicers (Category, Gender, Season)
 
----
-
-## 📂 Project Structure
-
-```
-Customer-Behavior-Analysis
-│── data/
-│   └── customer_shopping_behavior.csv
-│
-│── notebooks/
-│   └── data_cleaning.ipynb
-│
-│── sql/
-│   └── analysis_queries.sql
-│
-│── dashboard/
-│   └── customer_behavior_dashboard.pbix
-│
-│── report/
-│   └── Customer Behavior Project Report.pdf
-│
-│── README.md
-```
 
 ---
 
