@@ -94,16 +94,10 @@ The workflow follows a complete data pipeline:
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add your Power BI screenshot here)
-
----
-
 ## 👨‍💻 Author
 
 **Gunjan Kumar**  
-📊 Data Analyst | SQL | Python | Power BI  
+📊 Data Analyst
 
 ---
 
